@@ -6,7 +6,7 @@ The website features a modern design, responsive layout, and smooth animations t
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio](http://127.0.0.1:5500/trisha@@porfolio/index.html) 
+🔗 [View Portfolio](https://trishika290.github.io/My-Portfolio/) 
 
 ## 📌 Features
 
